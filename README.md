@@ -1,4 +1,4 @@
-# Python Mini-Projects (MP3)
+# Python (MP3)
 
 **Created By:**
 * BUMATAY, GERMIONE GUINEVERE RIELLE
