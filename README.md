@@ -1,4 +1,9 @@
 # Python Mini-Projects (MP3)
+By: 
+BUMATAY, GERMIONE GUINEVERE RIELLE
+MACULANGAN, ALEIA
+NARVASA, AILISH SOPHIA 
+PEDRIALVA, BYRON RAMIL
 
 This repository contains a collection of three interactive, text-based Python applications built as part of a school project. Each program demonstrates different programming concepts, including Object-Oriented Programming (OOP), complex data structures (like nested dictionaries), and interactive command-line menus.
 
