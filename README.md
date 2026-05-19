@@ -16,16 +16,7 @@ A comprehensive banking simulation built using Object-Oriented Programming. It u
 *   **Transactions:** Deposit, withdraw, and transfer funds between different accounts.
 *   **Transaction Logging:** Automatically timestamps and records every action taken on an account, which can be viewed in the transaction history.
 
-## 2. Gradebook Manager (`MP3-GradeBook-G9.py`)
-A relational data management system that acts as a digital gradebook for teachers. It uses Python dictionaries to link students, assignment categories, and specific grades together.
-
-**Key Features:**
-*   **Student Management:** Add, view, and remove students from the roster.
-*   **Category Weighting:** Create categories (e.g., Homework, Exams) and assign them specific percentage weights towards the final grade.
-*   **Grading & Statistics:** Enter grades for specific assignments, view class averages, and find the highest/lowest grades.
-*   **Report Cards:** Automatically generate and print detailed report cards for individual students or the entire class, displaying weighted averages and final letter grades.
-
-## 3. Inventory Management System (`MP3-InventorySystem-G9.py`)
+## 2. Inventory Management System (`MP3-InventorySystem-G9.py`)
 A practical business tool designed to handle the complete lifecycle of store products and track sales. 
 
 **Key Features:**
@@ -34,6 +25,16 @@ A practical business tool designed to handle the complete lifecycle of store pro
 *   **VAT & Discounts:** Apply dynamic percentage-based or fixed discounts, as well as VAT calculations during checkout.
 *   **Low Stock Alerts:** Automatically scans the inventory and warns the user if any product falls to 5 items or below.
 *   **Sales History:** Keeps a running log of all successful sales transactions.
+
+## 3. Gradebook Manager (`MP3-GradeBook-G9.py`)
+A relational data management system that acts as a digital gradebook for teachers. It uses Python dictionaries to link students, assignment categories, and specific grades together.
+
+**Key Features:**
+*   **Student Management:** Add, view, and remove students from the roster.
+*   **Category Weighting:** Create categories (e.g., Homework, Exams) and assign them specific percentage weights towards the final grade.
+*   **Grading & Statistics:** Enter grades for specific assignments, view class averages, and find the highest/lowest grades.
+*   **Report Cards:** Automatically generate and print detailed report cards for individual students or the entire class, displaying weighted averages and final letter grades.
+
 
 ---
 
